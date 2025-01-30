@@ -12,6 +12,6 @@ This Tableau dashboard visualizes customer review data for British Airways from 
 >8. This is a personal project of a tableau dashboard that displays customer rating data of British Airways.<br>
 >>
 ## Dashboard Features
->>Month of Date Slider**(March 2016
+>>*Month of Date Slider*(March 2016
 Link to view the dashboard: https://ploomatt.github.io/Tableau-Dashboard/ <br>
 
