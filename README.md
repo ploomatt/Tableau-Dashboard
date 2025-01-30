@@ -54,7 +54,7 @@ This Tableau dashboard visualizes **customer review data** for **British Airways
 - **Data Files (if applicable)** – Any CSV or Excel files used to build the Tableau dashboard.
 
 ##  Links
-- **View the Dashboard:** [Tableau Public Link](https://public.tableau.com/views/MathewGueonTableauAIR/Dashboard1)
+- **View the Dashboard:** [Tableau Public Link]([https://public.tableau.com/views/MathewGueonTableauAIR/Dashboard1](https://public.tableau.com/views/MathewGueonTableauAIR/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 - **View the HTML Code:** [GitHub Page](https://ploomatt.github.io/Tableau-Dashboard/)
 
 ---
