@@ -55,6 +55,4 @@ This Tableau dashboard visualizes **customer review data** for **British Airways
 
 ##  Links
 - **View the Dashboard:** [Tableau Public Link](https://public.tableau.com/views/MathewGueonTableauAIR/Dashboard1)
-- **View the HTML Code:** [GitHub Page](https://ploomatt.github.io/Tableau-Dashboard/)
 
----
