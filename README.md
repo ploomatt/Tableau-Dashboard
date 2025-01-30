@@ -28,7 +28,9 @@ This Tableau dashboard visualizes **customer review data** for **British Airways
 ##  Files in This Repository
 - **`index.html`** – The HTML file that loads the Tableau dashboard.
 - **`MathewGueonTableauAIR.twbx`** – The **Tableau workbook file**, which contains the dataset and visualizations.
-- **Data Files (if applicable)** – Any CSV or Excel files used to build the Tableau dashboard.
+- **Data Files ** – Any CSV or Excel files used to build the Tableau dashboard.
+  - **Countries.csv ** - A csv of all countries listed in the dataset.
+  - **ba_reviews.csv ** - A csv of reviews from around the world with all metrics included.
 
 ##  Links
 - **View the Dashboard:** [Tableau Public Link](https://public.tableau.com/views/MathewGueonTableauAIR/Dashboard1)
