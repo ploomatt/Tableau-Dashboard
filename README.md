@@ -26,7 +26,6 @@ This Tableau dashboard visualizes **customer review data** for **British Airways
   - **Summary Metrics (Top Section)** – Displays the average score for each metric.
 
 ##  Files in This Repository
-- **`index.html`** – The HTML file that loads the Tableau dashboard.
 - **`MathewGueonTableauAIR.twbx`** – The **Tableau workbook file**, which contains the dataset and visualizations.
 - **Data Files** – Any CSV or Excel files used to build the Tableau dashboard.
   - **Countries.csv** - A csv of all countries listed in the dataset.
